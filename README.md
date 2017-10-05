@@ -1,6 +1,6 @@
 # hw01
 ### 1. 假設你有以下座位表：
-
+    
 | John | Sue | Tom | Jim | Will |
 | Mary | Jack | Victor | Helen | Johnson |
 | Sam | Susan | Rachel | Tim | Roberts |
